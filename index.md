@@ -1,2 +1,3 @@
-#Lab Reports
+Lab Reports
+===========
 Hello World!
