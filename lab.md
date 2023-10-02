@@ -5,4 +5,5 @@ command w/ no prompts
 ![Image](cd_lab1.png)
 
 cd w/directory
+![Image](cd_examples.png)
 
