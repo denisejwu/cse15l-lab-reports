@@ -18,5 +18,5 @@ has an error when it doesn't have any arguments because it needs to have an argu
 cat command to directory 
 ![Image](cat_directory_lab1.png)
 cat command to file
-![Image](ls2_lab1.png)
+![Image](cat_lab1.png)
 
