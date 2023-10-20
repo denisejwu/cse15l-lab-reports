@@ -1,7 +1,15 @@
 Lab Reports
 ===========
-cd command
+cd command with no files as an argument
 
+cd command with a file agrument
+
+ls directory as an argument (other words like a file)
+cat with no argument(basically show every little thing like an image)
+
+write one or two commonds of all the nine commands that you did and why the output was how it was. or like why it rand the way it ran
+
+what would happend if the user were to type something and hit enter after running cat with no args should try that out. and screen shot what it did
 ![Image](cd_examples.PNG)
 
 ls command
