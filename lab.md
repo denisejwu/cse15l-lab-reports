@@ -4,8 +4,15 @@ cd command with no files as an argument
 ![Image](cd_NOARG.PNG)
 
 cd command with a file agrument
+![Image](cd_wfile.PNG)
+
 
 ls directory as an argument (other words like a file)
+![Image](ls_directory_arg.PNG)
+
+ls with a file as an argument
+![Image](ls_file.PNG)
+
 cat with no argument(basically show every little thing like an image)
 
 write one or two commonds of all the nine commands that you did and why the output was how it was. or like why it rand the way it ran
