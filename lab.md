@@ -19,6 +19,7 @@ ls using the command witha path to file as an argument
 ![Image](cat_noarg.png)
 
 cat command with no files
+![Image](cat_noarg.png)
 
 cat command to directory 
 
