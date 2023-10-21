@@ -1,7 +1,6 @@
 Lab Reports
 ===========
 cd command with no files as an argument
-
 ![Image](cd_NOARG.png)
 
 
