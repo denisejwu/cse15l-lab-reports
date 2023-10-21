@@ -18,11 +18,15 @@ ls with a file as an argument
 ls using the command witha path to file as an argument
 
 
-cat with no argument(basically show every little thing like an image)
+cat command with no files
 
-cat with file names
+cat command to directory 
 
-cat with a path to a file as an argument
+![Image](cat_directory_lab1.PNG)
+
+cat command to file
+
+![Image](cat_lab1.PNG)
 
 write one or two commonds of all the nine commands that you did and why the output was how it was. or like why it rand the way it ran
 
@@ -31,14 +35,5 @@ what would happend if the user were to type something and hit enter after runnin
 
 
 
-cat command
 
-cat command w/ no argument has an error when it doesn't have any arguments because it needs to have an argument for it to run
-cat command to directory 
-
-![Image](cat_directory_lab1.PNG)
-
-cat command to file
-
-![Image](cat_lab1.PNG)
 
