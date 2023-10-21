@@ -17,7 +17,7 @@ cd example of using the comand with a path to a file as argument
 
 ls directory as an argument 
 
-![Image](ls_directory_arg.png)
+![Image](ls_directory.png)
 
 
 ls with a file as an argument
