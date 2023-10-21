@@ -43,7 +43,7 @@ cat command to file
 
 ![Image](cat_lab1.PNG)
 
-Examples of commands paths to a file
+Examples of commands paths to a file, as well as ls command with no argument and other command that are not explicitly written are in the image below
 
 ![Image](paths.png)
 
@@ -51,9 +51,9 @@ Examples of commands paths to a file
 
  Explaination:
 
- cd command with no argument doesn't work because it needs a file name to change into a directory otherwise it will stay at home. Thats why once it has a file commad it is able to change the directory as indicated by the green beside the user in the direcotry. As for the path since lecture1 and messages is a directory is its able change the home directory into lecture1 and then find messages to get the file the user would want.
+ cd command with no argument doesn't work because it needs a file name to change into a directory otherwise it will stay at home. Once it has a directory file the cd command will change the directory into the file that was indicated. However, if you cd into a file it will not work because it is not a directory file.
 
- ls command with no agrument allows the user to see what files are in a specific directory. Like once it is in the lecture1 directory they can see that it has Hello.java, messages, Hello.class to name a few. 
+ ls command with no agrument allows the user to see what files are in a specific directory. Like once it is in the lecture1 directory they can see that it has Hello.java, messages, Hello.class to name a few. If ls is given a directory path file it will say it can't be accessed because I was already in a 
  
 
 
