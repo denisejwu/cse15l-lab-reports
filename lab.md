@@ -43,10 +43,7 @@ cat command to file
 
 ![Image](cat_lab1.PNG)
 
-Examples of commands to files
-
-![Image](cd_examples.PNG)
-and
+Examples of commands paths to a file
 
 ![Image](paths.png)
 
