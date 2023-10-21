@@ -4,14 +4,14 @@ cd command with no files as an argument
 ![Image](cd_NOARG.png)
 
 cd command with a file agrument
-![Image](cd_wfile.PNG)
+![Image](cd_wfile.png)
 
 
 ls directory as an argument (other words like a file)
-![Image](ls_directory_arg.PNG)
+![Image](ls_directory_arg.png)
 
 ls with a file as an argument
-![Image](ls_file.PNG)
+![Image](ls_file.png)
 
 cat with no argument(basically show every little thing like an image)
 
