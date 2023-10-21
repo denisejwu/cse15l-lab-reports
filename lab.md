@@ -47,9 +47,15 @@ Examples of commands paths to a file
 
 ![Image](paths.png)
 
-write one or two commonds of all the nine commands that you did and why the output was how it was. or like why it rand the way it ran
+ write one or two commonds of all the nine commands that you did and why the output was how it was. or like why it rand the way it ran
 
-what would happend if the user were to type something and hit enter after running cat with no args should try that out. and screen shot what it did
+ Explaination:
+
+ cd command with no argument doesn't work because it needs a file name to change into a directory otherwise it will stay at home. Thats why once it has a file commad it is able to change the directory as indicated by the green beside the user in the direcotry. As for the path since lecture1 and messages is a directory is its able change the home directory into lecture1 and then find messages to get the file the user would want.
+
+ ls command with no agrument allows the user to see what files are in a specific directory. Like once it is in the lecture1 directory they can see that it has Hello.java, messages, Hello.class to name a few. 
+ 
+
 
 
 
