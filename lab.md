@@ -16,7 +16,7 @@ ls with a file as an argument
 ![Image](ls2_lab1.PNG)
 
 ls using the command witha path to file as an argument
-
+![Image](cat_noarg.png)
 
 cat command with no files
 
