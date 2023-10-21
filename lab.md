@@ -11,6 +11,8 @@ cd command with a file agrument
 
 cd example of using the comand with a path to a file as argument
 
+![Image](cd_path.png)
+
 
 
 ls directory as an argument 
@@ -41,11 +43,18 @@ cat command to file
 
 ![Image](cat_lab1.PNG)
 
+Examples of commands to files
+
+![Image](cd_examples.PNG)
+and
+
+![Image](paths.png)
+
 write one or two commonds of all the nine commands that you did and why the output was how it was. or like why it rand the way it ran
 
 what would happend if the user were to type something and hit enter after running cat with no args should try that out. and screen shot what it did
 
-![Image](cd_examples.PNG)
+
 
 
 
