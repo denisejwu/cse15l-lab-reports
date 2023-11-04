@@ -23,9 +23,14 @@ static void reverseInPlace(int[] arr){
 }
 ~~~
 
-The reason being why the code wasn't working because it wasn't getting the expected output in other words it wasn't revsering the array at all. For example, if I were to test this code previously, and input the array {1,2,3} as the input it should return {3,2,1} instead it return {1,2,3
+The reason being why the code wasn't working because it wasn't getting the expected output in other words it wasn't revsering the array at all. For example, if I were to test this code previously, and input the array {1,2,3} as the input it should return {3,2,1} instead it return {1,2,3} therefore it isn't doing what it was supposed to do which was reversing the array.
 
+Part 2
+The command I will be using is grep.
 
+1. hfhjd
+2. hjfdk
+3. kahfud
+4. hdfuhd
 
-part 2
-consider the commands less, find and grep and choose one. go online and find 4 interestin command-line options or alternate ways to use the command I chose. To find information about the commands, a simple Web search like “find command-line options” will probably give decent results. There is also a built-in command on many systems called man (short for “manual”) that displays information about commands; you can use man grep, for example, to see a long listing of information about how grep works. Also consider asking ChatGPT!
+Soureces that were use based on the link
