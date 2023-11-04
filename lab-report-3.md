@@ -26,11 +26,11 @@ static void reverseInPlace(int[] arr){
 The reason being why the code wasn't working because it wasn't getting the expected output in other words it wasn't revsering the array at all. For example, if I were to test this code previously, and input the array {1,2,3} as the input it should return {3,2,1} instead it return {1,2,3} therefore it isn't doing what it was supposed to do which was reversing the array.
 
 Part 2
-The command I will be using is grep.
+The command I will be using is find.
 
 1. command -i meanns it -i
    ~~~
-   grep -i "KSM" technical/911report/chapter-13.4.txt
+    find . 
 
    
    ~~~
