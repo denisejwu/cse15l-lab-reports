@@ -28,9 +28,14 @@ The reason being why the code wasn't working because it wasn't getting the expec
 Part 2
 The command I will be using is grep.
 
-1. hfhjd
-2. hjfdk
-3. kahfud
-4. hdfuhd
+1. command -i meanns it -i
+   ~~~
+   grep -i "KSM" technical/911report/chapter-13.4.txt
+
+   
+   ~~~
+3. hjfdk
+4. kahfud
+5. hdfuhd
 
 Soureces that were use based on the link
