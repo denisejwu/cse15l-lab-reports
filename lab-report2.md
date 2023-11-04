@@ -21,7 +21,7 @@ Part2
 
 ls private/public keys
 
-![Image](private_key.png)
+![Image](Report2/private_key.png)
 
 ![Image](Report2/public_key_in_local.png)
 
