@@ -25,7 +25,11 @@ ls private/public keys
 
 ![Image](Report2/public_key_in_local.png)
 
+Terminal interaction on a remote server without being asked for the password
 ![Image](Report2/terminal_interaction_w_out_pass.png)
+
+Part3:
+I didn't know you could use the keys. Like the fact that I don't need to write my password anymore for my remote server I found so interesting. I also didn't know there is a key in my computer. Like you could do so  much remotely and locally on your computer so there is just so many more options. I also didn't know you could use the search bar in different ways because I would just typically search somthing and it comes up but there is certain syntax that lets you do so much more on the url search bar.
 
 
 
