@@ -46,8 +46,11 @@ The command I will be using is find.
    
    ~~~
    
-3. hjfdk
-4. kahfud
-5. hdfuhd
+3. comand -perm /u=r are the only read only files
+   ~~~
+   find /-perm /u=r
+   ~~~
+5. kahfud
+6. hdfuhd
 
 Soureces that were use based on the link
