@@ -3,6 +3,14 @@ Lab Reports 3
 Part1
 
 Buggy code before
+'''
+for(int i = 0; i < arr.length; i+=1){
+  arr[i] = arr[arr.length-i-1];
+}
+'''
+
+after code fixed
+
 
 
 part 2
