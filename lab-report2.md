@@ -13,8 +13,13 @@ For the messages below, the relevant arguments use is /add-message?s= is use for
 
 ![Image](Report2/first_message.png)
 
-For the second example, it has changes in which it added a message right after it added a string. which means if the inputs where all strings that were to be added the server would give an output.However, if it is not a string there be an error because the code written only takes string
+For the second example, it has changes in which it added a message right after it added a string. If you write in the search bar /add-message?s= {nothing} then it will return a blank string. Now if you add different values as the arguments in this method such as string ints, URI it will be converted into a string and added to the list.
 
 ![Image](Report2/second_message.png)
+
+Part2
+
+path to prived key
+
 
 
