@@ -8,9 +8,9 @@ This is the code for String Server
 
 This is the messages that my code produced
 
-![Image](Report2/Screenshot 2023-10-22 174104.png)
+![Image](Report2/first_message.png)
 
-![Image](Report2/Screenshot 2023-11-02 124908.png)
+![Image](Report2/second_message.png)
 
 Which methods in your code are called?
 What are the relevant arguments to those methods, and the values of any relevant fields of the class?
