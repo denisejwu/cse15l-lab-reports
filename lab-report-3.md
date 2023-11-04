@@ -28,12 +28,24 @@ The reason being why the code wasn't working because it wasn't getting the expec
 Part 2
 The command I will be using is find.
 
-1. command -i meanns it -i
+1. command -type f gets all the files from the current directory. In the code block below that is only a portion of the output there was a lot more files that I can't really fit on here.
+   T
    ~~~
-    find . 
+    find . -type f
+   ./biomed/1475-925X-2-6.txt
+    ./biomed/1475-9268-1-1.txt
+    ./biomed/1475-9268-1-2.txt
+    ./biomed/1475-9276-1-3.txt
+    ./biomed/1476-069X-1-3.txt
+    ./biomed/1476-069X-2-2.txt
+    ./biomed/1476-069X-2-4.txt
+    ./biomed/1476-069X-2-7.txt
+    ./biomed/1476-069X-2-9.txt
+    ./biomed/1476-0711-2-3.txt
 
    
    ~~~
+   
 3. hjfdk
 4. kahfud
 5. hdfuhd
