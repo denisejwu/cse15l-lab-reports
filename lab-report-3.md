@@ -45,6 +45,11 @@ The command I will be using is find.
 
    
    ~~~
+  the other example is to find the second is finding the directories
+
+  ~~~
+find . -type d
+~~~
    
 3. comand -perm /u=r are the only read only files
    ~~~
