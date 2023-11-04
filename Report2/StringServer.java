@@ -5,8 +5,9 @@ class Handler implements URLHandler {
     // The one bit of state on the server: a number that will be manipulated by
     // various requests.
     int num = 0;
-    String var = " ";
-    String returns = " ";
+     String var = " ";
+    String returns = "";
+    String newString = "";
 
     public String handleRequest(URI url) {
         if (url.getPath().equals("/")) {
@@ -16,13 +17,13 @@ class Handler implements URLHandler {
                 String[] parameters = url.getQuery().split("=");
                 if (parameters[0].equals("s")) {
                     for(int i = 1; i< parameters.length; i ++){
-                        var += parameters[i];
+                        var = parameters[i];
                         num +=1;
-                        returns = num + "." + var + " " + " \n\n ";
+                        newString = String.format(" %d. %s\n", num, var);
                     }
                     // num += 1;
                     // returns = ;
-                    return returns;
+                    return returns += newString;
                 }
             }
             return "404 Not Found!";
@@ -32,7 +33,7 @@ class Handler implements URLHandler {
     }
 
 
-class SearchEngine {
+class StringServer {
     public static void main(String[] args) throws IOException {
         if(args.length == 0){
             System.out.println("Missing port number! Try any number between 1024 to 49151");
@@ -43,3 +44,4 @@ class SearchEngine {
 
         Server.start(port, new Handler());
     }
+}
