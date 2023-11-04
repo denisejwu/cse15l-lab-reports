@@ -5,12 +5,25 @@ Part1
 Buggy code before
 
 ~~~
-for(int i = 0; i < arr.length; i+=1){
-  arr[i] = arr[arr.length-i-1];
+static void reverseInPlace(int[] arr){
+  for(int i = 0; i < arr.length; i+=1){
+    arr[i] = arr[arr.length-i-1];
   }
+}
 ~~~
 
 after code fixed
+~~~
+static void reverseInPlace(int[] arr){
+  for(int i = 0; i < arr.length/2; i+=1){
+    int temp = arr[i];
+    arr[i] = arr[arr.length-i-1];
+    arr[arr.length - i - 1] = temp;
+  }
+}
+~~~
+
+The reason being why the code wasn't working because it wasn't getting the expected output in other words it wasn't revsering the array at all. For example, if I were to test this code previously, and input the array {1,2,3} as the input it should return {3,2,1} instead it return {1,2,3
 
 
 
