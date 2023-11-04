@@ -20,8 +20,11 @@ For the second example, it has changes in which it added a message right after i
 Part2
 
 ls private/public keys
+
 ![Image](private_key.png)
+
 ![Image](Report2/public_key_in_local.png)
+
 ![Image](Report2/terminal_interaction_w_out_pass.png)
 
 
