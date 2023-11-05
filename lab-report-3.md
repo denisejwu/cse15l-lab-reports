@@ -87,5 +87,20 @@ $ find -type d
    ~~~
    find -type d -empty
    ~~~
-5. the fourth command is to see if there is any hidden files
-  
+4. the fourth command is finding any executable files -perm /a=x
+   ~~~
+   $ find -perm /a=x
+    .
+    ./911report
+    ./biomed
+    ./government
+    ./government/About_LSC
+    ./government/Alcohol_Problems
+    ./government/Env_Prot_Agen
+    ./government/Gen_Account_Office
+    ./government/Media
+    ./government/Post_Rate_Comm
+    ./plos
+   ~~~
+
+Source of files use 
