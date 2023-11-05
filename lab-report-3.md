@@ -78,8 +78,14 @@ $ find -type d
     ./government/Media/New_Online_Resources.txt
     ./government/Media/NJ_Legal_Services.txt
    ~~~
-3. the third command is -empty to check the files and the directories this allows you either find files that need to be filled or they were unneccessay files taking place or adding things in or checking if the directories needed files to be added or anything of that sort
+3. the third command is -empty to check the files and the directories this allows you either find files that need to be filled or they were unneccessay files taking place or adding things in or checking if the directories needed files to be added or anything of that sort. In the code below doesn't print anything because there is no empty file or empty directories. 
    ~~~
+   find -type f -empty
    ~~~
-4. the fourth command is to see if there is any hidden files
+
+   this is for checking if the directories are empty
+   ~~~
+   find -type d -empty
+   ~~~
+5. the fourth command is to see if there is any hidden files
   
