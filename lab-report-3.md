@@ -61,6 +61,25 @@ $ find -type d
   ~~~
    
 2. comand -perm /u=r are the only read only files. So it won't work on directories because that is just the location in which where the file are placed. Also the code block below doesn't cover all of the files that I printed as an output I only copyed a couple of them over.
+   ~~~
+   find . -perm /u=r
+   ./government/Media/Legal_system_fails_poor.txt
+    ./government/Media/less_legal_aid.txt
+    ./government/Media/Library_Lawyers.txt
+   ./government/Media/Lindsays_legacy.txt
+   ./government/Media/Local_Attorneys.txt
+   ./government/Media/Lockyer_Warns.txt
+    ./government/Media/Low-income_children.txt
+    ./government/Media/Major_Changes.txt
+    ./government/Media/Making_a_case.txt
+    ./government/Media/man_on_national_team.txt
+    ./government/Media/Marylands_Legal_Aid.txt
+    ./government/Media/New_funding_sources.txt
+    ./government/Media/New_Online_Resources.txt
+    ./government/Media/NJ_Legal_Services.txt
+   ~~~
 3. the third command is -empty to check the files and the directories this allows you either find files that need to be filled or they were unneccessay files taking place or adding things in or checking if the directories needed files to be added or anything of that sort
+   ~~~
+   ~~~
 4. the fourth command is to see if there is any hidden files
   
