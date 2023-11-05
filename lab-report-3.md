@@ -87,7 +87,7 @@ $ find -type d
    ~~~
    find -type d -empty
    ~~~
-4. the fourth command is finding any executable files -perm /a=x
+4. the fourth command is finding any executable files -perm /a=x this is only for files not directories
    ~~~
    $ find -perm /a=x
     .
