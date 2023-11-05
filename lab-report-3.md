@@ -29,7 +29,6 @@ Part 2
 The command I will be using is find.
 
 1. command -type f gets all the files from the current directory. In the code block below that is only a portion of the output there was a lot more files that I can't really fit on here. This is really helpful because it finds text files that you need or if there was a specific file that you need to find is really helpful with this command.
-   T
    ~~~
     find . -type f
    ./biomed/1475-925X-2-6.txt
@@ -62,26 +61,6 @@ $ find -type d
   ~~~
    
 2. comand -perm /u=r are the only read only files. So it won't work on directories because that is just the location in which where the file are placed. Also the code block below doesn't cover all of the files that I printed as an output I only copyed a couple of them over.
-   ~~~
-   find /-perm /u=r
-   ./government/Media
-    ./government/Media/5_Legal_Groups.txt
-    ./government/Media/Abuse_penalties.txt
-    ./government/Media/Advocate_for_Poor.txt
-    ./government/Media/agency_expands.txt
-    ./government/Media/Aid_Gets_7_Million.txt
-    ./government/Media/All_May_Have_Justice.txt
-    ./government/Media/Annual_Fee.txt
-    ./government/Media/Anthem_Payout.txt
-    ./government/Media/AP_LawSchoolDebts.txt
-    ./government/Media/Assuring_Underprivileged.txt
-    ./government/Media/Attorney_gives_his_time.txt
-    ./government/Media/Avoids_Budget_Cut.txt
-    ./government/Media/A_helping_hand.txt
-    ./government/Media/A_Perk_of_Age.txt
-    ./government/Media/balance_scales_of_justice.txt
-  ~~~
-5. kahfud
-6. hdfuhd
-
-Soureces that were use based on the link
+3. the third command is -empty to check the files and the directories this allows you either find files that need to be filled or they were unneccessay files taking place or adding things in or checking if the directories needed files to be added or anything of that sort
+4. the fourth command is to see if there is any hidden files
+  
