@@ -7,9 +7,16 @@ Step 4: log in ieng
 keys pressed: 
 
 ~~~
-<ssh cs15lfa23br@ieng6.ucsd.edu><git clone ctrl + v> 
+<ssh cs15lfa23br@ieng6.ucsd.edu>
 ~~~
 Step 5: clone your for the repository from your github account
+
+![Image](labReport7/step5.png)
+
+~~~
+<git clone ctrl + v>
+~~~
+
 Step6: run test, and show that it failed
 Step7: edit code file
 Step8: run to show that it works
