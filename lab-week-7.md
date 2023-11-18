@@ -41,6 +41,6 @@ Step9:commit and push into github account
 ![Image](labReport7/step9p2.png)
 
 ~~~
-<git commit><enter><git add ListExamples.java><enter><git commit -m lab7><enter><git push>
-<[myusername]><enter><password><enter>
+<git commit><enter><git add ListExamples.java><enter>
+<git commit -m lab7><enter><git push><[myusername]><enter><password><enter>
 ~~~
