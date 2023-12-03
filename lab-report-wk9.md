@@ -14,6 +14,6 @@ What your code is missing is to uncomment the second line in order for the junit
 Student post:
 ![Image](Report5/student_bug1.png)
 
-So I did what you said and now it works but I am not understanding my 
+So I did what you said and now it works but I am not understanding whats wrong with my code right now I even put print statments and all I know is that it only prints one part of the array it is no adding the rest of the array.
 
 
