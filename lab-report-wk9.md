@@ -4,7 +4,7 @@ Lab report 5
 Part1:
 Student post:
 
-![Image](Report5/student_bug.png)
+![Image](Report5/student_bug1.png)
 
 I am not sure what is wrong with my code there seems with my testMerge junit test. This is the output that I have been given when I ran the program.
 
