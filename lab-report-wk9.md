@@ -4,7 +4,7 @@ Lab report 5
 Part1:
 Student post:
 
-![Image](Report5/student_bug1.png)
+![Image](Report5/not_running.png)
 the
 I am not sure why my code is not running everything looks right I am not sure what is wrong with this code in my bash script
 
