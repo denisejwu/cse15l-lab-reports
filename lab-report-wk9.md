@@ -16,4 +16,6 @@ Student post:
 
 So I did what you said and now it works but I am not understanding whats wrong with my code right now I even put print statments and all I know is that it only prints one part of the array it is no adding the rest of the array.
 
+TA: So what wrong with your code is that your incrementing the wrong index because it appears that in the code you are using index
+
 
